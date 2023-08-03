@@ -1,0 +1,8 @@
+C:\dialytask\Assisted Practice\Phase1EndProject1\bin\Debug\Phase1EndProject1.exe.config
+C:\dialytask\Assisted Practice\Phase1EndProject1\bin\Debug\Phase1EndProject1.exe
+C:\dialytask\Assisted Practice\Phase1EndProject1\bin\Debug\Phase1EndProject1.pdb
+C:\dialytask\Assisted Practice\Phase1EndProject1\obj\Debug\Phase1EndProject1.csproj.AssemblyReference.cache
+C:\dialytask\Assisted Practice\Phase1EndProject1\obj\Debug\Phase1EndProject1.csproj.SuggestedBindingRedirects.cache
+C:\dialytask\Assisted Practice\Phase1EndProject1\obj\Debug\Phase1EndProject1.csproj.CoreCompileInputs.cache
+C:\dialytask\Assisted Practice\Phase1EndProject1\obj\Debug\Phase1EndProject1.exe
+C:\dialytask\Assisted Practice\Phase1EndProject1\obj\Debug\Phase1EndProject1.pdb
